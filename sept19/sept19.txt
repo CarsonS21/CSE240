@@ -1,0 +1,9 @@
+if you leave out the size of the array, it makes an exact fit
+
+Array searching
+
+linear search
+  - look through each value
+
+binary search
+  -splits arrays, only works in descending or ascending order
